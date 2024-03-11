@@ -1,0 +1,62 @@
+.user-content-auth-section {
+
+}
+.user-content-card-box {
+    display: inline-block;
+    width: 1000px;
+    text-align: center;
+    margin: 3rem 0rem;
+  
+}
+.user-content-form-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    /* border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px; */
+    border-radius: 20px;
+}
+span.content-form-logo-banner {
+    width: 100%;
+    height: 550px;
+    display: inline-block;
+}
+span.content-form-logo-banner img {
+    width: 100%;
+    height: 100%;
+}
+.content-form-left-side {
+    flex: 3;
+    padding: 20px;
+    text-align: left;
+}
+.content-form-right-side {
+    flex: 4;
+}
+span.content-form-auth-logo {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    text-align: left;
+}
+span.content-form-auth-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.content-form-auth-container {
+    margin: 2rem 0rem;
+}
+p.account-signup-helping-text {
+    margin: 20px 0px;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+}
+span.theme-orange-account {
+    color: #FF552C;
+    font-weight: 600;
+    text-transform: capitalize;
+    cursor: pointer;
+}

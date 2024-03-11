@@ -1,0 +1,184 @@
+@media (min-width: 300px) and (max-width: 575px) {
+    .carousel-control-prev {
+        left: 0 !important;
+    }
+    .carousel-control-next {
+        right: 0 !important;
+    }
+    .order-listing-banner-home {
+        text-align: center;
+    }
+    ul.user-cleaning-container {
+        display: block;
+    }
+    ul.user-cleaning-container li.user-cleaning-detail {
+        display: inline-block;
+        text-align: left;
+        margin: 10px 20px;
+        vertical-align: middle;
+        margin-left: 0px;
+    }
+    p.choose-us-paragraph {
+        max-width: 100%;
+    }
+    .application-choose-container {
+        padding: 1rem;
+    }
+    .application-packages-container {
+        padding: 1rem;
+    }
+    h4.heading-title-banner {
+        font-size: 24px;
+    }
+    h4.user-heading-title {
+        font-size: 22px;
+    }
+    .split-ac-flex-container {
+        display: inline-block;
+    }
+    .cart-amount-split-box {
+        display: block;
+    }
+    h4.services-modal-title-main {
+        font-size: 20px;
+    }
+    .modal-services-body {
+        padding: 10px !important;
+    }
+    p.services-modal-description {
+        font-size: 16px;
+    }
+    label.form-control-label {
+        font-size: 17px;
+    }
+    p.check-label-paragraph {
+        font-size: 15px;
+        max-width: 70%;
+    }
+    .btn-primary-fill-book-border {
+        margin-top: 10px;
+    }
+    .order-confirm-detail-success {
+        display: inline-block;
+    }
+    p.confirm-order-alert-description {
+        max-width: 100%;
+    }
+    span.img-label-order {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+    }
+    span.user-provider-label-home {
+        margin: 20px 10px;
+    }
+    .view-flex-title {
+        margin: 15px 0px;
+    }
+    .accordion-item:first-of-type .accordion-button {
+        padding: 0px;
+    }
+    .split-ac-flex-container {
+        display: inline-block !important;
+    }
+    .split-ac-flex-left {
+        display: inline-block !important;
+    }
+    .split-ac-flex-left .btn-primary-fill-book {
+        position: relative !important;
+    }
+    .split-ac-username {
+        margin-top: 1.5rem;
+    }
+    .cart-amount-split-box {
+        display: inline-block !important;
+    }
+    .box-cart-container .input-group-form-box {
+        margin: 1rem 0rem !important;
+    }
+    .user-multi-services-customer .alice-carousel__stage-item {
+        padding: 0rem 0rem !important;
+        width: 100% !important;
+    }
+    .cart-amount-split-box-little {
+        display: block !important;
+    }
+    .modal-content-order-service .modal-dialog {
+        width: 95% !important;
+    }
+    .btn-primary-fill-book-add {
+        margin: 1rem 0rem;
+    }
+    .user-dflex-justify-space {
+        display: inline-block;
+    }
+    .user-dflex-justify-space {
+        display: inline-block !important;
+    }
+    .user-text-container {
+        margin: 1rem 0rem;
+    }
+    h5.cart-amount-split-ton {
+        font-size: 16px;
+    }
+}
+@media (min-width: 300px) and (max-width: 1200px) {
+    .handyman-services-container {
+        display: block;
+        text-align: center;
+    }
+    .handyman-services-column {
+        display: inline-block;
+        margin: 10px;
+    }
+}
+@media (min-width: 300px) and (max-width: 767px) {
+    .footer-copyright-bottom {
+        display: inline-block;
+    }
+    .modal-content-order-service .modal-dialog {
+        transform: none;
+        width: 100%;
+    }
+    .split-ac-flex-left {
+        display: inline-block;
+    }
+    .split-ac-flex-left .btn-primary-fill-book {
+        position: relative;
+    }
+    h5.user-service-customers-title {
+        text-align: center;
+    }
+    p.user-content-card-text {
+        text-align: center;
+    }
+    .application-customers-review-container {
+        height: 100%;
+    }
+    h6.heading-title-banner-faq {
+        font-size: 16px;
+    }
+    .labour-charges-appliances {
+        width: 100%;
+    }
+    .box-cart-container-view {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 991px) {
+    h6.cart-amount-split-left {
+        max-width: 50%;
+    }
+}
+
+@media (max-width: 991px) {
+    .user-content-form-box {
+        display: flex;
+        flex-flow: column;
+    }
+    .content-form-left-side {
+        order: 2;
+        position: relative;
+    }
+}
